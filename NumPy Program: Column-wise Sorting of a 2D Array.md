@@ -1,4 +1,4 @@
-# NumPy Program: Column-wise Sorting of a 2D Array
+# 5a.NumPy Program: Column-wise Sorting of a 2D Array
 # Name: Vembarasi.A.R
 # Reg no: 212224220120
 ##  Aim
